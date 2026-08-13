@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeetjajal/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jeetjajal/leetcode/tree/master/0169-majority-element) |
+| [1470-shuffle-the-array](https://github.com/jeetjajal/leetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
