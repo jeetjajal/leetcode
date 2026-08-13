@@ -3,9 +3,9 @@ class Solution {
         int [] ans =new int [2*n];
         int count=0;
         for(int i=0;i<n;i++){
-            ans[2*i]=nums[i];
-            ans[2*i+1]=nums[i+n];
-            
+            ans[count]=nums[i];
+            ans[count+1]=nums[i+n];
+            count+=2; 
             }
             return ans;
         }
