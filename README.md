@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeetjajal/leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jeetjajal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jeetjajal/leetcode/tree/master/0169-majority-element) |
 | [1470-shuffle-the-array](https://github.com/jeetjajal/leetcode/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/jeetjajal/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/jeetjajal/leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/jeetjajal/leetcode/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jeetjajal/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
